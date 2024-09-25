@@ -6,8 +6,6 @@ I am from a southwest suburb of Chicago. I grew up playing volleyball my whole l
 ### Description
 _This project was to practice using Github and we created a sample repository. We had a step by step guide on how to create this project and what we should be doing_
 #### Additionl Help
--Reach out to your professors
--Reach out to friends
--Look up videos online
+-Reach out to your professors -Reach out to friends -Look up videos online
 ##### Additional Documentation
 There is *NO* additional documentation to show at this *time*
